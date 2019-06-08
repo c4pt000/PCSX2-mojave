@@ -15,3 +15,5 @@ old version of PCSX2 some games, alot of games broken graphics, mileage will var
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/c4pt000/PCSX2-mojave/master/in%20game%20shot.png" width="800"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/c4pt000/PCSX2-mojave/master/in%20game%20shotmore.png" width="800"></p>
